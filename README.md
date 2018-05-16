@@ -1,0 +1,2 @@
+# destinyxi.github.io
+blog
